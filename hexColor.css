@@ -1,0 +1,39 @@
+body {
+    transition: all ease-in-out .3s;
+    color: red;
+}
+
+h2 {
+    color: black;
+    margin-top: 180px;
+    padding: 0 40px;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    transition: all ease-in-out .3s;
+}
+
+h3 {
+    color: rgb(5, 17, 56);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 400;
+}
+
+.btn {
+    vertical-align: middle;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 5px;
+    height: 38px;
+    width: 120px;
+    background-color: rgb(57, 123, 245);
+    color: white;
+    font-size: 30px;
+    margin-top: 90px;
+    font-weight: 400;
+}
